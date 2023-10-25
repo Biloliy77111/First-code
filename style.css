@@ -45,8 +45,10 @@ header::before {
 }
 
 .box3 p {
-    font-size: 1.2vh;
+    font-size: 1.2vw;
     font-weight: 100;
+}
+.box4 {
 }
 
 .arrow-down {
@@ -106,7 +108,6 @@ main {
 }
 
 .items p {
-    color: red;
     font-size: 18px;
     font-weight: lighter;
 }
